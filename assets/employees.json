@@ -1,0 +1,32 @@
+[
+  {
+    "name": "John Doe",
+    "location": {"lat": 28.6139, "lng": 77.2090},
+    "image": "https://via.placeholder.com/150/0000FF/808080",
+    "attendance": "Present"
+  },
+  {
+    "name": "Jane Smith",
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "image": "https://via.placeholder.com/150/FF5733/808080",
+    "attendance": "Absent"
+  },
+  {
+    "name": "Emily Davis",
+    "location": {"lat": 51.5074, "lng": -0.1278},
+    "image": "https://via.placeholder.com/150/DAF7A6/808080",
+    "attendance": "Present"
+  },
+  {
+    "name": "Michael Brown",
+    "location": {"lat": 35.6895, "lng": 139.6917},
+    "image": "https://via.placeholder.com/150/FFBD33/808080",
+    "attendance": "Absent"
+  },
+  {
+    "name": "Sophia Wilson",
+    "location": {"lat": -33.8688, "lng": 15.2093},
+    "image": "https://via.placeholder.com/150/800080/808080",
+    "attendance": "Present"
+  }
+]
